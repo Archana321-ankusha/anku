@@ -28,6 +28,11 @@ print(primes)
 
 # In[17]:
 
+--------------------------------
+hi hello
+
+
+
 
 import pandas as pd
 df = pd.read_csv("C:/Users/ankus/OneDrive/Desktop/mtcars.csv")
